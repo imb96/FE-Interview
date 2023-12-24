@@ -1,6 +1,6 @@
 # FE 개발자가 되기 위한 개념 저장소
 
-## FE 전반
+## FE
 
 - [브라우저 렌더링](/documents/Fronte-End/Browser-rendering.md)
 - [Reflow, Repaint](/documents/Fronte-End/Reflow_Repaint.md)
@@ -40,3 +40,14 @@
 - [동기 / 비동기](/documents/JavaScript/Synchronous_Asynchronous.md)
 - [프로미스](/documents/JavaScript/Promise.md)
 - [AJAX](/documents/JavaScript/AJAX.md)
+
+### React
+
+- [가상 돔](/documents/React/Virtual_DOM.md)
+- [제어 / 비제어 컴포넌트](/documents/React/Component_Control.md)
+- [CSR / SSR](/documents/React/CSR_SSR.md)
+- [SPA / MPA](/documents/React/SPA_MPA.md)
+
+### TypeScript
+
+- [타입스크립트 사용 이유](/documents/TypeScript/why_TypeScript.md)
