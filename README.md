@@ -12,6 +12,7 @@
 - [CORS](/documents/Fronte-End/CORS.md)
 - [자바스크립트 엔진](/documents/Fronte-End/Javascript-engine.md)
 - [CI/CD](/documents/Fronte-End/CICD.md)
+- [GET/POST](/documents/Fronte-End/GET_POST.md)
 
 ## JavaScript
 
